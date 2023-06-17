@@ -1,0 +1,1 @@
+const skool = 1;
